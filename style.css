@@ -1,0 +1,23 @@
+
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/*
+ * Sample for test
+ */
+
+.header {
+  background: red;
+}
+
+.footer {
+  background: gray;
+}
+
+.main-wrapper {
+  width: 1200px;
+  margin: 0 auto;
+}

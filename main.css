@@ -1,0 +1,88 @@
+-body{
+  background-color: white;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5
+
+/*
+red
+rgb(255,0,0)
+#ff000
+*/
+
+
+.main-text{
+      font-weight: 200;
+      font-size: 30px;
+      text-align: justify;
+      letter-spacing: -0.03em;
+      word-spacing: 1,0em;
+      line-height: 1.8em;
+}
+
+.main-wrapper{
+  background-color: beige;
+  letter-spacing: 0.01em;
+  word-spacing: 0.1em;
+}
+
+.div-pad {
+  padding: 15px 30px;
+}
+
+.box-a {
+  width:100px;
+  height:100px;
+  background-color: gray;
+  display:inline-block;
+}
+.box-b {
+  width:100px;
+  height:100px;
+  background-color: gray;
+  display:inline-block;
+}
+.box-c {
+  width:100px;
+  height:100px;
+  background-color: gray;
+  display:inline-block;
+}
+
+/*
+ * CSS flex
+ */
+
+.content-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.flex-a {
+  width:300px;
+  height:100px;
+  background-color: red;
+  }
+.flex-b {
+ width:300px;
+ height:100px;
+ background-color: green;
+ }
+.flex-c {
+ width:300px;
+ height:100px;
+ background-color: blue;
+ }
+
+p{
+  font-family: 'Black Han Sans', sans-serif;
+  font-size: 15px;
+  color: red;
+  letter-spacing: -0.01em;
+  word-spacing: -0.01em;
+}}
+
